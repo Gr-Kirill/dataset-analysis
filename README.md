@@ -7,15 +7,15 @@
 
     * *Using the dataset "datasets/taxi_dataset.csv"*
 
-    **1** Name the total amount of tips for the top 5 trips where passengers turned out to be generous with tips (in absolute terms, round the result to integers).
+    **Task_1** Name the total amount of tips for the top 5 trips where passengers turned out to be generous with tips (in absolute terms, round the result to integers).
 
-    **2** What is the share of duties (tools) in the total market volume (total) New York taxi (within the framework of the presented dataset)? Reflect the answer in %, rounding the result to hundredths
+    **Task_2** What is the share of duties (tools) in the total market volume (total) New York taxi (within the framework of the presented dataset)? Reflect the answer in %, rounding the result to hundredths
 
-    **3** Who tips more (on average): those who pay for trips with bank cards, or those who pay in cash? Choose one of two possible answers: bank cards or cash
+    **Task_3** Who tips more (on average): those who pay for trips with bank cards, or those who pay in cash? Choose one of two possible answers: bank cards or cash
 
-    **4** How many seconds did the longest trip take?
+    **Task_4** How many seconds did the longest trip take?
 
-    **5** Which airport is more expensive to travel from on average?
+    **Task_5** Which airport is more expensive to travel from on average?
 
 * SECOND
 
@@ -23,15 +23,15 @@
 
     * *Using the dataset "datasets/olim.csv"*
     
-    **1** Which sport has had the largest number of unique winners (national teams) in the history of the Olympic Games? In the response, specify the name of the sport from the dataset provided.
+    **Task_1** Which sport has had the largest number of unique winners (national teams) in the history of the Olympic Games? In the response, specify the name of the sport from the dataset provided.
 
-    **2** What are the sports that are the strongest for the Chinese and US national teams (where have the teams won the most gold medals)?
+    **Task_2** What are the sports that are the strongest for the Chinese and US national teams (where have the teams won the most gold medals)?
 
-    **3** Among the countries that have won more than 50 sets of gold medals in the history of the Olympic Games, what is the country where the proportion of athletes who have won gold medals in relation to all athletes sent to the Olympic Games is the highest? Consider the medals of the same athlete, as well as the participation of the same athlete in different Olympic Games as different events.
+    **Task_3** Among the countries that have won more than 50 sets of gold medals in the history of the Olympic Games, what is the country where the proportion of athletes who have won gold medals in relation to all athletes sent to the Olympic Games is the highest? Consider the medals of the same athlete, as well as the participation of the same athlete in different Olympic Games as different events.
 
-    **4** What is the name and surname of the most decorated athlete of the Olympic Games (from the presented dataset)?
+    **Task_4** What is the name and surname of the most decorated athlete of the Olympic Games (from the presented dataset)?
 
-    **5** What was the maximum age difference between the winners (in different sports) of the same national team in the framework of the same Olympic Games?
+    **Task_5** What was the maximum age difference between the winners (in different sports) of the same national team in the framework of the same Olympic Games?
 
 * THIRD
   
