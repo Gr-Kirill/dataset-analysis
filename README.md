@@ -33,7 +33,7 @@
 
     **5** What was the maximum age difference between the winners (in different sports) of the same national team in the framework of the same Olympic Games?
 
-* THREE
+* THIRD
   
     * *All the detailed information is in the society folder*
 
@@ -61,7 +61,7 @@ that the richest 1% of the country's residents should pay differ depending on th
     **Task_3**
 Is there an impact of political views on attitudes towards income inequality as a problem and vice versa?
 
-* FOUR
+* FOURTH
 
   * *All the detailed information is in the application folder*
 
